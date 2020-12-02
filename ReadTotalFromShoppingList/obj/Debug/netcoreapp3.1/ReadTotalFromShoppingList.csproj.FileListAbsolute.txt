@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\FilesAndObjects\ReadTotalFromShoppingList\bin\Debug\netcoreapp3.1\ReadTotalFromShoppingList.exe
+C:\Users\opilane\source\repos\FilesAndObjects\ReadTotalFromShoppingList\bin\Debug\netcoreapp3.1\ReadTotalFromShoppingList.deps.json
+C:\Users\opilane\source\repos\FilesAndObjects\ReadTotalFromShoppingList\bin\Debug\netcoreapp3.1\ReadTotalFromShoppingList.runtimeconfig.json
+C:\Users\opilane\source\repos\FilesAndObjects\ReadTotalFromShoppingList\bin\Debug\netcoreapp3.1\ReadTotalFromShoppingList.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\FilesAndObjects\ReadTotalFromShoppingList\bin\Debug\netcoreapp3.1\ReadTotalFromShoppingList.dll
+C:\Users\opilane\source\repos\FilesAndObjects\ReadTotalFromShoppingList\bin\Debug\netcoreapp3.1\ReadTotalFromShoppingList.pdb
+C:\Users\opilane\source\repos\FilesAndObjects\ReadTotalFromShoppingList\obj\Debug\netcoreapp3.1\ReadTotalFromShoppingList.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\FilesAndObjects\ReadTotalFromShoppingList\obj\Debug\netcoreapp3.1\ReadTotalFromShoppingList.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\FilesAndObjects\ReadTotalFromShoppingList\obj\Debug\netcoreapp3.1\ReadTotalFromShoppingList.AssemblyInfo.cs
+C:\Users\opilane\source\repos\FilesAndObjects\ReadTotalFromShoppingList\obj\Debug\netcoreapp3.1\ReadTotalFromShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\FilesAndObjects\ReadTotalFromShoppingList\obj\Debug\netcoreapp3.1\ReadTotalFromShoppingList.dll
+C:\Users\opilane\source\repos\FilesAndObjects\ReadTotalFromShoppingList\obj\Debug\netcoreapp3.1\ReadTotalFromShoppingList.pdb
+C:\Users\opilane\source\repos\FilesAndObjects\ReadTotalFromShoppingList\obj\Debug\netcoreapp3.1\ReadTotalFromShoppingList.genruntimeconfig.cache
